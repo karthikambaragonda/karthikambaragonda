@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ambaragondakarthik@gmail.com**
 
-# 💫 About Me:
+#  About Me:
 🔭 I’m a CSE Student<br>
 
 
