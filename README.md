@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikambaragonda&show_icons=true&locale=en" alt="karthikambaragonda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikambaragonda&" alt="karthikambaragonda" /></p>
+
